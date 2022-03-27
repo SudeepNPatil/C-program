@@ -7,4 +7,9 @@ void main ()
 	//gets(a);
 	printf("\n%s",a);
 	printf("hello sudeep\n");
+	while(True)
+	{	
+		printf("hgfwmhdgf");	
+	}
+	
 }
